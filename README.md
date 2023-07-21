@@ -1,2 +1,2 @@
 # CLON_googlemath
-Clon google realised with css and html
+Clon google created with css and html
